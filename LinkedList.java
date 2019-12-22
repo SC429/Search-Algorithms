@@ -1,4 +1,3 @@
-//Implemented all the todo methods
 import java.util.*;
 
 public class MyLinkedList
