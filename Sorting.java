@@ -1,5 +1,3 @@
-//Implemented all the todo methods
-
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Random;
